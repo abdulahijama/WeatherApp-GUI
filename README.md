@@ -12,4 +12,5 @@ Project is created with:
 To run this project, install:
   - Python 3.10
   - Tkinter
+  - Requests
   - API Link: "https://openweathermap.org/api"
